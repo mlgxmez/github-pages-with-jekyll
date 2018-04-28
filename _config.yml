@@ -1,15 +1,19 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Learning by blocks
+author: Guillermo Gómez
+email: mlgxmez@gamil.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Thinking in writing about machine learning and everything related.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: mlgxmez
+github_username:  mlgxmez
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-hacker
+theme: minima
+
+---
+title: "Hello World!"
+date: 2018-04-28
+---
+
