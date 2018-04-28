@@ -11,3 +11,9 @@ github_username:  mlgxmez
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "Hello World!"
+date: 2018-04-28
+---
+
